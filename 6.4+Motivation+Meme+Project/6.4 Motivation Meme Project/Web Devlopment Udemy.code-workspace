@@ -1,0 +1,61 @@
+{
+	"folders": [
+		{
+			"name": "Web Devlopment Udemy",
+			"path": "../../../../../Web Devlopment Udemy"
+		},
+		{
+			"name": "4.1 Webpages",
+			"path": "../../4.1+Webpages/4.1 Webpages"
+		},
+		{
+			"name": "4.3 HTML Porfolio Project",
+			"path": "../../4.3+HTML+Portfolio+Project/4.3 HTML Porfolio Project"
+		},
+		{
+			"name": "5.1. Adding CSS",
+			"path": "../../5.1+Adding+CSS/5.1. Adding CSS"
+		},
+		{
+			"name": "5.3 CSS Selectors",
+			"path": "../../5.3+CSS+Selectors/5.3 CSS Selectors"
+		},
+		{
+			"name": "5.4 Color Vocab Project",
+			"path": "../../5.4+Color+Vocab+Project/5.4 Color Vocab Project"
+		},
+		{
+			"name": "6.0 CSS Colors",
+			"path": "../../6.0+CSS+Colors/6.0 CSS Colors"
+		},
+		{
+			"name": "6.1 Font Properties",
+			"path": "../../6.1+Font+Properties/6.1 Font Properties"
+		},
+		{
+			"name": "6.3 CSS Box Model",
+			"path": "../../6.3+CSS+Box+Model/6.3 CSS Box Model"
+		},
+		{
+			"name": "6.4 Motivation Meme Project",
+			"path": "."
+		},
+		{
+			"name": "7.1 Combining Selectors",
+			"path": "../../7.1+Combining+Selectors/7.1 Combining Selectors"
+		},
+		{
+			"name": "7.2 CSS Positioning",
+			"path": "../../7.2+CSS+Positioning/7.2 CSS Positioning"
+		},
+		{
+			"name": "7.3 CSS Flag Project",
+			"path": "../../7.3+Flag+Project/7.3 CSS Flag Project"
+		},
+		{
+			"name": "4.0 File Paths",
+			"path": "../../4.0+File+Paths/4.0 File Paths"
+		}
+	],
+	"settings": {}
+}

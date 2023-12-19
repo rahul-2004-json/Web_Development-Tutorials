@@ -1,0 +1,17 @@
+
+//function to create an object using JS  -- same as class in c++
+function housekeeping(year,name){
+    this.yearofex=year;
+    this.name=name;   
+    //we can also give a method in the function by default
+    this.clean=function(){
+        alert("Cleaning in progress...");
+    }
+}
+
+//Making a new housekeeper object
+var housekeeper=new housekeeping(12,"Tom");
+console.log(housekeeper.name);
+housekeeper.clean();
+
+
